@@ -16,7 +16,7 @@ Erlang Elixir PostgreSQL
 
 1\. Клонуйте репозиторій:
 
-&#x20;  git clone \[https://github.com/your-organization/medicare-api.git](https://github.com/your-organization/medicare-api.git)
+&#x20;  git clone https://github.com/saf0v3r/pr7
 
 &#x20;  cd medicare-api
 
@@ -40,7 +40,7 @@ Erlang Elixir PostgreSQL
 
 Документація Production API: Довідник ендпоінтів, форматів JSON-запитів, відповідей та автентифікації для розробників інтеграцій.
 
-Бізнес-процеси та специфікації: Опис логіки надання медичних послуг, взаємодії суб'єктів та бізнес-правил системи. 
+Бізнес-процеси та специфікації: Опис логіки надання медичних послуг, взаємодії суб'єктів та бізнес-правил системи.
 
 
 
@@ -53,6 +53,4 @@ Credits
 Ліцензія
 
 Цей проєкт поширюється за ліцензією Apache License 2.0.
-
-
 
